@@ -1,0 +1,8 @@
+﻿react-app/node_modules/
+react-app/dist/
+react-app/dist-ssr/
+**/.env
+**/.env.*
+!**/.env.example
+.DS_Store
+*.log
